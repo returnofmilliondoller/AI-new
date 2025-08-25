@@ -1,4 +1,4 @@
-const API_KEY = "YOUR_OPENAI_API_KEY"; // Replace with your real key
+const API_KEY =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 ; // Replace with your real key
 
 async function sendMessage() {
   const userInput = document.getElementById("user-input").value;
